@@ -20,7 +20,7 @@
 
 [[main]]
   name = "People"
-  url = "#content/people"
+  url = "people"
   weight = 35
 
 [[main]]
