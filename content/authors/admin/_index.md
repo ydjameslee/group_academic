@@ -75,5 +75,4 @@ user_groups:
 - Principal Investigators
 ---
 
-‪Thomas Frauenheim is a chair professor of computational material science at Beijing Computational Science Research Center. 
-#His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+‪Thomas Frauenheim is a chair professor of computational material science at Beijing Computational Science Research Center.
