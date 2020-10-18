@@ -10,8 +10,6 @@ weight = 1  # Order that this section will appear.
 title = "Meet the Team in Computational Material Science"
 subtitle = "People in the Group"
 
-authors:
-- thomasfrauenheim
 
 [content]
   # Choose which groups/teams of users to display.
