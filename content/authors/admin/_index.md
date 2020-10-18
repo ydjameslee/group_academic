@@ -4,10 +4,10 @@ title: ‪Thomas Frauenheim
 
 # Username (this should match the folder name)
 authors:
-- thomasfrauenheim
+- admin
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Chair Professor
