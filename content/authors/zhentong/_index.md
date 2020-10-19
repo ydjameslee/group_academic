@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Chair Professor
+role: PostDoc
 
 # Organizations/Affiliations
 organizations:
