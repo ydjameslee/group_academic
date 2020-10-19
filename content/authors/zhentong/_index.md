@@ -23,22 +23,23 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Micro/nano-scale energy transport and conversion
+- Electron and phonon thermal transport of solid materials from first-principles
+- Thermal radiative properties of solid materials from first-principles
+- Thermal transport mechanism of composite materials
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
+education:
+  courses:
+  - course: PhD in Thermal Sciences
+    institution: Shanghai Jiao Tong University
+    year: 2019
 #  - course: MEng in Artificial Intelligence
 #   institution: Massachusetts Institute of Technology
 #    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#   year: 2008
+  - course: BSc in Energy and Power Engineering
+    institution: Huazhong University of Science and Technology
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +48,13 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:tongzhen@csar.ac.cn'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=Z6cXcTEAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=YY8FIyYAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -64,7 +65,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mailto:frauenheim@bccms.uni-bremen.de"
+email: "mailto:tongzhen@csar.ac.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -75,4 +76,4 @@ user_groups:
 - Researchers
 ---
 
-‪Thomas Frauenheim is a chair professor of computational material science at Beijing Computational Science Research Center.
+Dr. Zhen Tong now works as a Postdoctoral Fellow at Computational Science and Applied Research Institute (CSAR) in Shenzhen, China. 
