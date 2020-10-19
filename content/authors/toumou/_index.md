@@ -1,16 +1,16 @@
 ---
 # Display name
-title: ‪Thomas Frauenheim
+title: Tong MOU
 
 # Username (this should match the folder name)
 authors:
-- admin
+- toumou
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Chair Professor
+role: PostDoc
 
 # Organizations/Affiliations
 organizations:
@@ -72,7 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Researchers
 ---
 
 ‪Thomas Frauenheim is a chair professor of computational material science at Beijing Computational Science Research Center.
