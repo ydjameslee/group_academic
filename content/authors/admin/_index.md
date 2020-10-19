@@ -47,13 +47,13 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:frauenheim@bccms.uni-bremen.de"  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: 'https://scholar.google.com/citations?user=Z6cXcTEAAAAJ'
+- icon: envelope
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=Z6cXcTEAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
