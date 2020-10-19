@@ -16,7 +16,7 @@ role: PostDoc
 organizations:
 - name: Beijing Computational Science Research Center
   url: "http://www.csrc.ac.cn/"
-- name: SHENZHEN JL COMPUTATIONAL SCIENCE AND APPLIED RESEARCH INSTITUTE
+- name: Shenzhen JL Computational Science And Applied Research Institute
   url: ""
   
 
