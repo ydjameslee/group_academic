@@ -28,17 +28,17 @@ organizations:
 #- Computational Linguistics
 #- Information Retrieval
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#   institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#   year: 2008
+education:
+  courses:
+    - course: PhD in Computational Chemistry
+      institution: The University of Hong Kong
+      year: 2018
+    - course: MPhil in Physics
+      institution: The University of Hong Kong
+      year: 2010
+    - course: BSc in Physics
+      institution: Fudan University
+      year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,7 +47,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:lijun@csar.ac.cn'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -64,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mailto:frauenheim@bccms.uni-bremen.de"
+email: "mailto:lijun@csar.ac.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -75,4 +75,4 @@ user_groups:
 - Researchers
 ---
 
-‪Thomas Frauenheim is a chair professor of computational material science at Beijing Computational Science Research Center.
+Dr. Jun LI is a Postdoctoral Researcher at Shenzhen JL Computational Science And Applied Research Institute.
