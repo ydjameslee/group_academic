@@ -74,5 +74,4 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
-
-‪Thomas Frauenheim is a chair professor of computational material science at Beijing Computational Science Research Center.
+Dr. Cihan Bacaksiz now works as a Postdoctoral Fellow at Computational Science and Applied Research Institute (CSAR) in Shenzhen, China.
