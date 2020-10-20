@@ -20,6 +20,16 @@
   weight = 35
 
 [[main]]
+  name = "Software"
+  url = "content/software/"
+  weight = 36
+
+[[main]]
+  name = "Events"
+  url = "content/events/"
+  weight = 37
+
+[[main]]
   name = "Publications"
   url = "#featured"
   weight = 40
