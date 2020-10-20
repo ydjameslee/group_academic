@@ -21,12 +21,12 @@
 
 [[main]]
   name = "Software"
-  url = "content/software/"
+  url = "software"
   weight = 36
 
 [[main]]
   name = "Events"
-  url = "content/events/"
+  url = "events"
   weight = 37
 
 [[main]]
