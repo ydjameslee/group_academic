@@ -23,19 +23,19 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Developing linear-scaling quantum mechanical methods
-- Multi-scale modeling method for device simulations
-- Optoelectronic device simulations
+#interests:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
 
-education:
-  courses:
-  - course: PhD in Chemistry
-    institution: The University of Hong Kong
-    year: 2004
- - course: BSc in Chemistry
-    institution: The University of Hong Kong
-    year: 2000
+#education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#   institution: Massachusetts Institute of Technology
+#    year: 2009
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #   year: 2008
@@ -47,13 +47,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:yamcy111@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=tItgVesAAAAJ
+  link: https://scholar.google.com/citations?user=Z6cXcTEAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -64,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mailto:yamcy111@gmail.com"
+email: "mailto:frauenheim@bccms.uni-bremen.de"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -74,4 +74,5 @@ highlight_name: false
 user_groups:
 - Professors
 ---
-ChiYung Yam received his B.Sc. (1999) and Ph.D. (2004) from the University of Hong Kong. After postdoctoral training in University of Hong Kong and University of Bremen, he joined Beijing Computational Science Research Center in 2013 as an assistant professor. In 2013, he received the Excellent Young Researcher Award by NSFC. Since 2019,he is a Assoicate professor at Beijing Computational Science Research Center.
+
+‪Thomas Frauenheim is a chair professor of computational material science at Beijing Computational Science Research Center.
