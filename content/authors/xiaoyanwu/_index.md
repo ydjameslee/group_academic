@@ -24,9 +24,9 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Quantum transport in open quantum system
+- Opto-electronic devices simulations and methods development
+- Non-adiabatic molecular dynamic
 
 #education:
 #  courses:
