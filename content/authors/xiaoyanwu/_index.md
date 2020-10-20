@@ -28,14 +28,14 @@ interests:
 - Opto-electronic devices simulations and methods development
 - Non-adiabatic molecular dynamic
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#   institution: Massachusetts Institute of Technology
-#    year: 2009
+education:
+  courses:
+  - course: PhD in Condensed Matter Physics
+    institution: Beijing Computational Science Research Center
+    year: 2020
+  - course: BSc in Physics in Physics
+   institution: Lanzhou University 
+    year: 2014
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #   year: 2008
