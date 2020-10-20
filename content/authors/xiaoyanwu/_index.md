@@ -23,22 +23,19 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Quantum transport in open quantum system
+- Opto-electronic devices simulations and methods development 
+- Non-adiabatic molecular dynamic
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#   institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#   year: 2008
+education:
+  courses:
+  - course: PhD in Condensed Matter Physics
+    institution: Beijing Computational Science Research Center
+    year: 2020
+  - course: BSs in Physics
+   institution: Lanzhou University 
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +44,13 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:wuxy@csrc.ac.cn'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=Z6cXcTEAAAAJ
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=Z6cXcTEAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -64,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mailto:frauenheim@bccms.uni-bremen.de"
+email: "mailto:wuxy@csrc.ac.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
