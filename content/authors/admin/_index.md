@@ -23,19 +23,19 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#   institution: Massachusetts Institute of Technology
-#    year: 2009
+education:
+  courses:
+  - course: PhD in Theoretical Physics
+    institution: Technical University Dresden
+    year: 1976
+  - course: BSc in Theoretical Solid State Physics
+    institution: Technical University Dresden
+    year: 1973
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #   year: 2008
