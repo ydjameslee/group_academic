@@ -30,12 +30,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Condensed Matter Physics
-    institution: Beijing Computational Science Research Center
-    year: 2020
-  - course: BSc in Physics in Physics
-   institution: Lanzhou University 
-    year: 2014
+    - course: PhD in Condensed Matter Physics
+       institution: Beijing Computational Science Research Center
+       year: 2020
+    - course: BSc in Physics in Physics
+      institution: Lanzhou University 
+      year: 2014
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #   year: 2008
