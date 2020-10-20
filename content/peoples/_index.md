@@ -1,6 +1,6 @@
 +++
 # Homepage
-type = "widget_page"
+#type = "widget_page"
 headless = true  # Homepage is headless, other widget pages are not.
 
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
