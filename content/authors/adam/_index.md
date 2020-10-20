@@ -74,4 +74,5 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
-Dr. Adam Mc-Sloy now works as a Postdoctoral Fellow at Computational Science and Applied Research Institute (CSAR) in Shenzhen, China.
+
+‪Thomas Frauenheim is a chair professor of computational material science at Beijing Computational Science Research Center.

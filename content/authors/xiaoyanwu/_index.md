@@ -75,4 +75,4 @@ user_groups:
 - Researchers
 ---
 
-Dr. XiaoYan Wu now works as a Postdoctoral Fellow at Computational Science and Applied Research Institute (CSAR) in Shenzhen, China.
+‪Thomas Frauenheim is a chair professor of computational material science at Beijing Computational Science Research Center.
