@@ -62,6 +62,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: https://www.bccms.uni-bremen.de/en/cms
+- icon: skype
+  icon_pack: fab
+  link: skype:thomas.frauenheim
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mailto:frauenheim@bccms.uni-bremen.de"
