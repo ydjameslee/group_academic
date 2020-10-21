@@ -63,6 +63,10 @@ social:
 - icon: cv
   icon_pack: ai
   link: https://zhentongsjtu.wixsite.com/zhentongthermal
+- icon: skype
+  icon_pack: fab
+  link: skype:tzhustqh
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mailto:tongzhen@csar.ac.cn"
