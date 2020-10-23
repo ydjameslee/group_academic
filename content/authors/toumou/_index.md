@@ -23,8 +23,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Artificial Intelligence
+interests:
+- Catalysis, photocatalytic reactions on metals and metal oxides 2D material
 #- Computational Linguistics
 #- Information Retrieval
 
@@ -47,13 +47,13 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:tongmou@csar.ac.cn'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=Z6cXcTEAAAAJ
+  link: https://scholar.google.com/citations?user=DsY7KykAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -64,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mailto:frauenheim@bccms.uni-bremen.de"
+email: "mailto:tongmou@csar.ac.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
