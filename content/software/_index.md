@@ -10,11 +10,11 @@ view: 2
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: ""
+  image: "DFTB.png"
 ---
 
 
-DFTB+ is a fast and efficient versatile quantum mechanical simulation software package. Using DFTB+ you can carry out quantum mechanical simulations similar to density functional theory but in an approximate way, typically gaining around two orders of magnitude in speed. (See About DFTB+ for further details.)
+**DFTB+** is a **fast and efficient** versatile quantum mechanical simulation software package. Using DFTB+ you can carry out quantum mechanical simulations similar to density functional theory but in an approximate way, typically gaining around two orders of magnitude in speed. (See About DFTB+ for further details.)
 
 You can use DFTB+ either as a standalone application or embed it into your own academic or commercial simulation package as a library.
 
