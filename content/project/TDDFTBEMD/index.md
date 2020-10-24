@@ -4,7 +4,7 @@ summary: In a recent work, we have studied the photodynamic process in a supramo
 
 Also van der Waals heterostructures from layered molecular stacks might offer means to efficient optoelectronics, due to adjustable photoactive, charge separation and collection layers. TD-DFTB simulations reveals nonlinear interlayer exciton dissociation without recombination in perylene acceptors and cove graphene nanoribbon donors on top of armchair graphene platforms.
 tags:
-- optoelectronics
+- TD-DFTB
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
