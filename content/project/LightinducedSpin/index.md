@@ -7,7 +7,15 @@ date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 #external_link: http://example.org
-
+links:
+- icon: link
+  icon_pack: fas
+  name: link
+  url: https://pubs.acs.org/doi/pdf/10.1021/acs.jpclett.0c02007
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 image:
   caption:
   focal_point: Smart
