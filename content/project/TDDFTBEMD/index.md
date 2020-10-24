@@ -12,7 +12,6 @@ image:
   focal_point: Smart
 
 links:
-links:
 - icon: link
   icon_pack: fas
   name: link
