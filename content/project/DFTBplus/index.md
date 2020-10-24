@@ -13,6 +13,10 @@ image:
   focal_point: Smart
 
 links:
+- icon: link
+  icon_pack: fas
+  name: link
+  url: https://aip.scitation.org/doi/pdf/10.1063/1.5143190
 url_code: ""
 url_pdf: ""
 url_slides: ""
