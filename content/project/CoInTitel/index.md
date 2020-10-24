@@ -16,7 +16,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://pubs.acs.org/doi/pdf/10.1021/acs.nanolett.9b03194
 url_code: ""
 url_pdf: ""
 url_slides: ""
