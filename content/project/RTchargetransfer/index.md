@@ -14,6 +14,10 @@ image:
   focal_point: Smart
 
 links:
+- icon: link
+  icon_pack: fas
+  name: link
+  url: https://pubs.acs.org/doi/pdf/10.1021/acs.nanolett.9b03194
 url_code: ""
 url_pdf: ""
 url_slides: ""
