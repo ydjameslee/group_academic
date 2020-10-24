@@ -1,7 +1,6 @@
 ---
 title: Ultrafast energy transfer through an intermolecular CoIn
-summary: 
-tags:
+summary: tags:
 - DFTB
 date: "2016-04-27T00:00:00Z"
 
@@ -13,6 +12,11 @@ image:
   focal_point: Smart
 
 links:
+links:
+- icon: link
+  icon_pack: fas
+  name: link
+  url: https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.9b01217
 url_code: ""
 url_pdf: ""
 url_slides: ""
