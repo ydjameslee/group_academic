@@ -18,19 +18,18 @@ publication_types: ["2"]
 publication: "*Physical Review B*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: We outline details about an extension of the tight-binding (TB) approach to improve total energies, forces, and transferability. The method is based on a second-order expansion of the Kohn-Sham total energy in density-functional theory (DFT) with respect to charge density fluctuations. The zeroth order approach is equivalent to a common standard non-self-consistent (TB) scheme, while at second order a transparent, parameter-free, and readily calculable expression for generalized Hamiltonian matrix elements may be derived. These are modified by a self-consistent redistribution of Mulliken charges (SCC). Besides the usual “band structure” and short-range repulsive terms the final approximate Kohn-Sham energy additionally includes a Coulomb interaction between charge fluctuations. At large distances this accounts for long-range electrostatic forces between two point charges and approximately includes self-interaction contributions of a given atom if the charges are located at one and the same atom. We apply the new SCC scheme to problems where deficiencies within the non-SCC standard TB approach become obvious. We thus considerably improve transferability.
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- DFTB
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.58.7260
 url_code: ''
 url_dataset: ''
 url_poster: ''
