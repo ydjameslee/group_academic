@@ -1,5 +1,5 @@
 ---
-title: [DFTB+](https://dftbplus.org/
+title: Software
 
 # View.
 #   1 = List
@@ -20,6 +20,7 @@ You can use DFTB+ either as a standalone application or embed it into your own a
 
 DFTB+ is free software licensed under the GNU Lesser General Public License. Please refer to the official software site : [https://dftbplus.org/](https://dftbplus.org/)
 
+#{{< figure library="true" src="DFTB.png" title="DFTB+" >}}
 
 {{< figure src="DFTB.png" title="DFTB+" >}}
 
