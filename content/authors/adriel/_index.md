@@ -75,7 +75,7 @@ user_groups:
 - Researchers
 ---
 
-#### Research 
+# Research 
 My main research focus is on the structural, electronic and optical properties of semiconductor materials and molecules, as well as their combination to form a superior functional complex, by means of atomistic simulations based on quantum mechanical (QM) approaches. Due to my interest in extended compound systems and long simulation time frames, I focus on Density Functional Theory (DFT) and approximate DFT formalisms as main theoretical tools, which provide a good compromise between numerical accuracy and computational cost. I however employ a wide spectrum of QM methods in my research, ranging from Hartree-Fock to many body perturbation theory (MBPT). 
 
 
