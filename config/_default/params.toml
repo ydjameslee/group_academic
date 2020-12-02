@@ -97,7 +97,7 @@ address = {street = "Level 6, Block 26, HongShan 6979 Phase Two, Longhua New Dis
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "22.620771884166388", longitude = "114.02662895025419"}
+coordinates = {latitude = "22.627035", longitude = "114.033144"}
 
 # Directions for visitors to locate you.
 directions = ""
