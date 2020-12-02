@@ -7,7 +7,7 @@ authors:
 - junli
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: PostDoc
@@ -76,3 +76,5 @@ user_groups:
 ---
 
 Dr. Jun LI is a Postdoctoral Researcher at Shenzhen JL Computational Science And Applied Research Institute.
+## Research 
+My research focused on the fast algorithms in NEGF approach for steady-state quantum transport. The application of NEGF in quantum transport has led to tremendous success for the simulation of nano-device. However, the intensive computational cost in NEGF prohibits its application to realistic system at large scale, especially the device with multi-terminal setup. The major part of cost in self-consistent field (SCF) NEGF calculation comes from the evaluation of electron density, or Mulliken charge, which is obtained by numerical integration of Green’s function:the equilibrium part and non-equilibrium part. We exploits the sparsity of matrix to develop SelInv Algorithm and X-formulation Algorithm to speed up the Green’s function calculation. We also used the numerical integration technique: the multi-contour and adaptive quadrature to reduce cost and improve the accuracy of integration. The algorithms and techniques developed are applied to the realistic nano-device's simulation.
