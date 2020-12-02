@@ -14,7 +14,7 @@ header:
 ---
 
 
-International CECAM-Workshop on *Real-time quantum dynamics in photo-stimulated processes: experiment and theory*; 
+International CECAM-Workshop on **Real-time quantum dynamics in photo-stimulated processes: experiment and theory**; 
 
 
 Beijing, planned June 2021
