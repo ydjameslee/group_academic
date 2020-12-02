@@ -15,7 +15,7 @@ publishDate: "2020-06-04T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Molecular Modeling*"
+publication: "*Physical Chemistry Chemical Physics*"
 publication_short: ""
 
 abstract: Band gap tuning and dielectric properties of small organic ligands adsorbed on bidimensional germanium monolayers (germanene) have been investigated using first-principles calculations. We show that the adsorption of these small groups retains the initially stable free-standing pristine buckled structure form. Charge density and chemical bonding analyses show that the ligands are chemisorbed on the germanium layers. Finally, we demonstrate that the dielectric properties of the bare and ligand adsorbed germanene have a large anisotropy. Our findings of a finite gap open a path for the rational design of nanostructures with possible applications in biosensors and solar cells.
