@@ -13,6 +13,10 @@ image:
   focal_point: Smart
 
 links:
+- icon: link
+  icon_pack: fas
+  name: link
+  url: https://pubs.acs.org/doi/pdf/10.1021/acscatal.0c04098
 url_code: ""
 url_pdf: ""
 url_slides: ""
