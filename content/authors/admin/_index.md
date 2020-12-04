@@ -14,12 +14,13 @@ role: Chair Professor
 
 # Organizations/Affiliations
 organizations:
+- name: Shenzhen JL Computational Science And Applied Research Institute
+  url: ""
 - name: Beijing Computational Science Research Center
   url: "http://www.csrc.ac.cn/"
 - name: Bremen Center for Computational Materials Science
   url: "https://www.bccms.uni-bremen.de/en/"
-- name: Shenzhen JL Computational Science And Applied Research Institute
-  url: ""
+
   
 
 # Short bio (displayed in user profile at end of posts)
@@ -35,7 +36,7 @@ education:
   - course: PhD in Theoretical Physics
     institution: Technical University Dresden
     year: 1976
-  - course: BSc in Theoretical Solid State Physics
+  - course: Diploma in Theoretical Solid State Physics
     institution: Technical University Dresden
     year: 1973
 #  - course: BSc in Artificial Intelligence
@@ -63,7 +64,10 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://www.bccms.uni-bremen.de/en/cms
+  link: files/CV_TFrauenheim.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 - icon: skype
   icon_pack: fab
   link: skype:thomas.frauenheim
