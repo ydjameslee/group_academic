@@ -72,12 +72,14 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Grad Students
 ---
 
 ## Research 
  
 
 ### Multiple charge density wave phases with contrasting electronic properties in monolayer TaTe2
+
+{{< figure src="YatianResearch.png" >}}
 
 Layered transition-metal dichalcogenide TaTe2 shows a unique 3×3 charge density wave (CDW) order, different from isostructural TaS2 and TaSe2. Here, using first-principles calculations, we reveal the presence of multiple competitive CDW orders (3 × 3, 4 × 4 and √ 13 × √ 13) with very close formation energies in the monolayer limit of TaTe2. The emergences of the CDW orders lead to the reduction of the density of states at the Fermi level of the metallic 1 × 1 phase in monolayer TaTe2. In particular, a metal-to-semiconductor transition is induced in the 4 × 4 CDW phase, while the metallicity is still maintained in the formed 3 × 3 and √ 13 × √ 13 CDW phases. More interestingly, under hole (electron) doping, the 4×4 (3×3) CDW phase will have an obviously lower total energy than the other two CDW phases, which offers a feasible route to realize phase control in monolayer TaTe2. Finally, we show that in multilayer TaTe2, like the bulk case, the 3 × 3 CDW order rather than the other two orders will appear at low temperature, due to the presence of the interlayer coupling.
