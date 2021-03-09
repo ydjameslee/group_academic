@@ -55,9 +55,12 @@ social:
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+
+
 - icon: cv
   icon_pack: ai
-  link: http://www.csrc.ac.cn/groups/yamcy/
+  link: files/CV_CYYam.pdf
+#  link: http://www.csrc.ac.cn/groups/yamcy/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mailto:yamcy111@gmail.com"
@@ -68,7 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Professors
+- Principal Investigators
 ---
 
 ChiYung Yam received his B.Sc. (1999) and Ph.D. (2004) from the University of Hong Kong. After postdoctoral training in University of Hong Kong and University of Bremen, he joined Beijing Computational Science Research Center in 2013 as an assistant professor. In 2013, he received the Excellent Young Researcher Award by NSFC. Since 2019,he is a Assoicate professor at Beijing Computational Science Research Center.

@@ -82,7 +82,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Principal Investigators
-- Professors
 ---
 
 ‪Thomas Frauenheim is a chair professor of computational material science at Shenzhen JL Computational Science And Applied Research Institute, Beijing Computational Science Research Center, Bremen Center for Computational Materials Science.
