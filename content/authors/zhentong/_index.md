@@ -75,7 +75,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PostDoc
+- Researchers
 ---
 ## Research 
 Research focuses on the fundamental understanding of thermophysical properties and engineering the properties to enhance energy conversion and utilization efficiency. At the fundamental level, I develop and implement numerical simulation methods for thermal transport properties (especially thermal conductivity and thermal emissivity) at different scales. Our target is to develop a fundamental understanding of heat conduction and radiation phenomena in a variety of materials, including solid materials and composite materials. The energy conversion and utilization research is targeted at enhanced energy conversion efficiency and efficient thermal energy dissipation by tuning the thermal properties of materials. The application includes solar-thermal energy conversion, radiative cooling, etc.
