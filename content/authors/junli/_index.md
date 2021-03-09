@@ -72,7 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- PostDoc
 ---
 
 Dr. Jun LI is a Postdoctoral Researcher at Shenzhen JL Computational Science And Applied Research Institute.
