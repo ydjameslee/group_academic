@@ -14,10 +14,10 @@ role: Chair Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Shenzhen JL Computational Science And Applied Research Institute
-  url: ""
 - name: Beijing Computational Science Research Center
   url: "http://www.csrc.ac.cn/"
+- name: Shenzhen JL Computational Science And Applied Research Institute
+  url: ""
 - name: Bremen Center for Computational Materials Science
   url: "https://www.bccms.uni-bremen.de/en/"
 
