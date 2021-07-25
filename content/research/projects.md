@@ -26,8 +26,16 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "DFTB"
-    tag = "DFTB"
+    name = "linearscaling"
+    tag = "linearscaling"
+
+  [[content.filter_button]]
+    name = "multiscale"
+    tag = "multiscale"
+  [[content.filter_button]]
+    name = "optoelectronics"
+    tag = "optoelectronics"
+    
   
   [[content.filter_button]]
     name = "Other"
