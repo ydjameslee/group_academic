@@ -16,6 +16,12 @@ publishDate: "2016-05-02T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
+
 # Publication name and optional abbreviated publication name.
 publication: "*The Journal of Physical Chemistry Letters*"
 publication_short: "J. Phys. Chem. Lett. 2016, 7, 1852-1858"
@@ -23,7 +29,8 @@ publication_short: "J. Phys. Chem. Lett. 2016, 7, 1852-1858"
 abstract: Detailed balance between photon-absorption and energy loss constrains the efficiency of conventional solar cells to the Shockley-Queisser limit. However, if solar illumination can be absorbed over a wide spectrum by plasmonic structures, and the generated hot-carriers can be collected before relaxation, the efficiency of solar cells may be greatly improved. In this work, we explore the opportunities and limitations for making plasmonic solar cells, here considering a design for hot-carrier solar cells in which a conventional semiconductor heterojunction is attached to a plasmonic medium such as arrays of gold nanoparticles. The underlying mechanisms and fundamental limitations of this cell are studied using a nonequilibrium Green’s function method, and the numerical results indicate that this cell can significantly improve the absorption of solar radiation without reducing open-circuit voltage, as photons can be absorbed to produce mobile carriers in the semiconductor as long as they have energy larger than the Schottky barrier rather than above the bandgap. However, a significant fraction of the hot-carriers have energies below the Schottky barrier, which makes the cell suffer low internal quantum efficiency. Moreover, quantum efficiency is also limited by hot-carrier relaxation and metal–semiconductor coupling. The connection of these results to recent experiments is described, showing why plasmonic solar cells can have less than 1% efficiency.
 # Summary. An optional shortened abstract.
 summary: Detailed balance between photon-absorption and energy loss constrains the efficiency of conventional solar cells to the Shockley-Queisser limit. However, if solar illumination can be absorbed over a wide spectrum by plasmonic structures, and the generated hot-carriers can be collected before relaxation, the efficiency of solar cells may be greatly improved. In this work, we explore the opportunities and limitations for making plasmonic solar cells, here considering a design for hot-carrier solar cells in which a conventional semiconductor heterojunction is attached to a plasmonic medium such as arrays of gold nanoparticles. The underlying mechanisms and fundamental limitations of this cell are studied using a nonequilibrium Green’s function method, and the numerical results indicate that this cell can significantly improve the absorption of solar radiation without reducing open-circuit voltage, as photons can be absorbed to produce mobile carriers in the semiconductor as long as they have energy larger than the Schottky barrier rather than above the bandgap. However, a significant fraction of the hot-carriers have energies below the Schottky barrier, which makes the cell suffer low internal quantum efficiency. Moreover, quantum efficiency is also limited by hot-carrier relaxation and metal–semiconductor coupling. The connection of these results to recent experiments is described, showing why plasmonic solar cells can have less than 1% efficiency.
-- optoelectronics
+tags:
+-
 featured: false
 
 # links:
@@ -56,4 +63,5 @@ projects: [optoelectronics]
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
 
