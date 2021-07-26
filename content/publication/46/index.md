@@ -25,7 +25,7 @@ abstract: Previous simulations of photovoltaic devices are based on classical mo
 # Summary. An optional shortened abstract.
 summary: Previous simulations of photovoltaic devices are based on classical models, which neglect the atomistic details and quantum-mechanical effects besides the dependence on many empirical parameters. Here, within the nonequilibrium Green’s function formalism, we present a quantum-mechanical study of the performance of inorganic nanowire-based photovoltaic devices. On the basis of density-functional tight-binding theory, the method allows simulation of current–voltage characteristics and optical properties of photovoltaic devices without relying on empirical parameters. Numerical studies of silicon nanowire-based devices of realistic sizes with 10 000 atoms are performed, and the results indicate that atomistic details and nonequilibrium conditions have a clear impact on the photoresponse of the devices.
 tags:
-- 
+- optoelectronics
 featured: false
 
 # links:

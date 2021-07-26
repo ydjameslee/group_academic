@@ -27,7 +27,7 @@ abstract: Understanding of the electroluminescence (EL) mechanism in optoelectro
 # Summary. An optional shortened abstract.
 summary: Understanding of the electroluminescence (EL) mechanism in optoelectronic devices is imperative for further optimization of their efficiency and effectiveness. Here, a quantum mechanical approach is formulated for modeling the EL processes in nanoscale light emitting diodes (LED). Based on non-equilibrium Green's function quantum transport equations, interactions with the electromagnetic vacuum environment are included to describe electrically driven light emission in the devices. The presented framework is illustrated by numerical simulations of a silicon nanowire LED device. EL spectra of the nanowire device under different bias voltages are obtained and, more importantly, the radiation pattern and polarization of optical emission can be determined using the current approach. This work is an important step forward towards atomistic quantum mechanical modeling of the electrically induced optical response in nanoscale systems.
 tags:
--
+- optoelectronics
 featured: false
 
 # links:
