@@ -26,7 +26,7 @@ abstract: A linear-scaling time-dependent density-functional theory is developed
 # Summary. An optional shortened abstract.
 summary: A linear-scaling time-dependent density-functional theory is developed to evaluate the optical response of large molecular systems. The two-electron Coulomb integrals are evaluated with the fast multipole method, and the calculation of exchange-correlation quadratures utilizes the locality of exchange-correlation functional within the adiabatic local density approximation and the integral prescreening technique. Instead of many-body wave function, the equation of motion is solved for the reduced single-electron density matrix in the time domain. Based on its “nearsightedness”, the reduced density matrix cutoffs are employed to ensure that the computational time scales linearly with the system size. As an illustration, the resulting time-dependent density-functional theory is used to calculate the absorption spectra of linear alkanes, and the linear scaling of computational time versus the system size is clearly demonstrated.
 tags:
--
+- linearscaling
 featured: false
 
 # links:
@@ -50,7 +50,7 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [linearscaling]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

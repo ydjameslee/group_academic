@@ -28,7 +28,7 @@ abstract: A time-dependent density-functional tight-binding method in real time 
 # Summary. An optional shortened abstract.
 summary: A time-dependent density-functional tight-binding method in real time domain is developed to calculate the absorption spectra of very large systems. The time-dependent first-order response of the density matrix due to an external perturbation is solved using Chebyshev method with high efficiency and accuracy. Linear scaling of CPU time and memory usage with the system size is achieved by exploring the sparsity of the involving matrices as well as by introduction of a cutoff for the first-order density matrix. The compressed sparse row scheme is used to store the matrices, and SPARSEKIT is employed for sparse matrix multiplication. The absorption spectra of three-dimensional water clusters (H2O)216, (H2O)432, (H2O)648, and (H2O)864 are calculated using the present approach. The error due to the cutoff of density matrix is negligible. It is shown from these calculations that the presented method is very efficient and capable of calculating the absorption spectra for very large three-dimensional systems.
 tags:
--
+- linearscaling
 featured: false
 
 # links:
@@ -52,7 +52,7 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [linearscaling]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
