@@ -24,8 +24,9 @@ publication: "*Journal of Computational Physics*"
 publication_short: "J. Comp. Phys. 2015, 286, 49-61"
 
 abstract: A new approximate computational framework is proposed for computing the non-equilibrium charge density in the context of the non-equilibrium Green's function (NEGF) method for quantum mechanical transport problems. The framework consists of a new formulation, called the X-formulation, for single-energy density calculation based on the solution of sparse linear systems, and a projection-based nonlinear model order reduction (MOR) approach to address the large number of energy points required for large applied biases. The advantages of the new methods are confirmed by numerical experiments.
-# Summary. An optional shortened abstract.
+# # Summary. An optional shortened abstract.
 summary: A new approximate computational framework is proposed for computing the non-equilibrium charge density in the context of the non-equilibrium Green's function (NEGF) method for quantum mechanical transport problems. The framework consists of a new formulation, called the X-formulation, for single-energy density calculation based on the solution of sparse linear systems, and a projection-based nonlinear model order reduction (MOR) approach to address the large number of energy points required for large applied biases. The advantages of the new methods are confirmed by numerical experiments.
+tags:
 -
 featured: false
 
