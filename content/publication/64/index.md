@@ -26,7 +26,7 @@ abstract: The continuous downsizing of modern electronic devices implies the inc
 # Summary. An optional shortened abstract.
 summary: The continuous downsizing of modern electronic devices implies the increasing importance of quantum phenomena. As the feature sizes of transistors inch towards 10 nanometer, simulations including quantum effects and atomistic details are inevitable. Here we report a novel hybrid quantum mechanics and electromagnetics (QM/EM) method to model individual electronic components at the nanoscale. QM and EM models are solved in different regions of the system in a self-consistent manner. As a demostration, we study a carbon nanotube based electronic device embedded in a silicon block. Good agreement is obtained between simulation by QM/EM method and full QM treatment of the entire system.
 tags:
--
+- multiscale
 featured: false
 
 # links:

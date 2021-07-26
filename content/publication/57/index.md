@@ -27,7 +27,7 @@ abstract: A newly developed hybrid quantum mechanics and electromagnetics (QM/EM
 # Summary. An optional shortened abstract.
 summary: A newly developed hybrid quantum mechanics and electromagnetics (QM/EM) method [Yam et al. Phys. Chem. Chem. Phys.2011, 13, 14365] is generalized to simulate the real time dynamics. Instead of the electric and magnetic fields, the scalar and vector potentials are used to integrate Maxwell’s equations in the time domain. The TDDFT-NEGF-EOM method [Zheng et al. Phys. Rev. B2007, 75, 195127] is employed to simulate the electronic dynamics in the quantum mechanical region. By allowing the penetration of a classical electromagnetic wave into the quantum mechanical region, the electromagnetic wave for the entire simulating region can be determined consistently by solving Maxwell’s equations. The transient potential distributions and current density at the interface between quantum mechanical and classical regions are employed as the boundary conditions for the quantum mechanical and electromagnetic simulations, respectively. Charge distribution, current density, and potentials at different temporal steps and spatial scales are integrated seamlessly within a unified computational framework.
 tags:
--
+- multiscale
 featured: false
 
 # links:
@@ -51,7 +51,7 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [multiscale]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

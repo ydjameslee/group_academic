@@ -25,7 +25,7 @@ abstract: Multiscale modeling has become a popular tool for research applying to
 # Summary. An optional shortened abstract.
 summary: Multiscale modeling has become a popular tool for research applying to different areas including materials science, microelectronics, biology, chemistry, etc. In this tutorial review, we describe a newly developed multiscale computational method, incorporating quantum mechanics into electronic device modeling with the electromagnetic environment included through classical electrodynamics. In the quantum mechanics/electromagnetics (QM/EM) method, the regions of the system where active electron scattering processes take place are treated quantum mechanically, while the surroundings are described by Maxwell's equations and a semiclassical drift-diffusion model. The QM model and the EM model are solved, respectively, in different regions of the system in a self-consistent manner. Potential distributions and current densities at the interface between QM and EM regions are employed as the boundary conditions for the quantum mechanical and electromagnetic simulations, respectively. The method is illustrated in the simulation of several realistic systems. In the case of junctionless field-effect transistors, transfer characteristics are obtained and a good agreement between experiments and simulations is achieved. Optical properties of a tandem photovoltaic cell are studied and the simulations demonstrate that multiple QM regions are coupled through the classical EM model. Finally, the study of a carbon nanotube-based molecular device shows the accuracy and efficiency of the QM/EM method.
 tags:
--
+- multiscale
 featured: false
 
 # links:
