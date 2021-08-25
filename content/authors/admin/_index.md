@@ -73,5 +73,4 @@ user_groups:
 - Principal Investigators
 ---
 
-ChiYung Yam received his B.Sc. (1999) and Ph.D. (2004) from the University of Hong Kong. After postdoctoral training in University of Hong Kong and University of Bremen, he joined Beijing Computational Science Research Center in 2013 as an assistant professor. In 2013, he received the Excellent Young Researcher Award by NSFC. Since 2019,he is a Assoicate professor at Beijing Computational Science Research Center.
-
+ChiYung Yam received his B.Sc. (1999) and Ph.D. (2004) from The University of Hong Kong. After postdoctoral training in The University of Hong Kong and University of Bremen, he joined Beijing Computational Science Research Center in 2013 as an Assistant Professor. In 2013, he received the Young Thousand Talent and NSFC Excellent Young Researcher Award. Currently, he is an Associate Professor at Beijing Computational Science Research Center.
